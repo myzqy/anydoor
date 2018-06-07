@@ -1,0 +1,17 @@
+{
+    "name": "anydoor",
+    "version": "0.1.0",
+    "main": "src/app.js",
+    "bin": {
+        "anydoor": "bin/anydoot"
+    },
+    "devDependencies": {
+        "babel-eslint": "^8.2.3",
+        "eslint": "^4.19.1"
+    },
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "handlebars": "^4.0.11",
+        "yargs": "^11.0.0"
+    }
+}
