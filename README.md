@@ -4,7 +4,7 @@ nodejs static web server
 ## 安装
 
 ```
-npm i -g anydoor
+npm i -g zqy-anydoor
 ```
 
 ##  使用方法
